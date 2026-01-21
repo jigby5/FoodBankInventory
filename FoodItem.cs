@@ -2,6 +2,7 @@ namespace FoodBankInventory;
 
 public class FoodItem
 {
+    // creates variables visible to the entire class
     private string _name;
     private string _category;
     private int _quantity;
@@ -9,6 +10,7 @@ public class FoodItem
 
     public FoodItem(string name, string category, int quantity, string expirationDate)
     {
+        // loads the object parameters into the variables
         _name = name;
         _category = category;
         _quantity = quantity;
@@ -16,6 +18,7 @@ public class FoodItem
     }
     
     public string GetName()
+        // generic methods that return the class variables stored
     {
         return _name;
     }
