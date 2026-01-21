@@ -1,0 +1,14 @@
+/Users/jigby5/RiderProjects/FoodBankInventory/bin/Debug/net10.0/FoodBankInventory
+/Users/jigby5/RiderProjects/FoodBankInventory/bin/Debug/net10.0/FoodBankInventory.deps.json
+/Users/jigby5/RiderProjects/FoodBankInventory/bin/Debug/net10.0/FoodBankInventory.runtimeconfig.json
+/Users/jigby5/RiderProjects/FoodBankInventory/bin/Debug/net10.0/FoodBankInventory.dll
+/Users/jigby5/RiderProjects/FoodBankInventory/bin/Debug/net10.0/FoodBankInventory.pdb
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.AssemblyInfoInputs.cache
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.AssemblyInfo.cs
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.csproj.CoreCompileInputs.cache
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.dll
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/refint/FoodBankInventory.dll
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.pdb
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/FoodBankInventory.genruntimeconfig.cache
+/Users/jigby5/RiderProjects/FoodBankInventory/obj/Debug/net10.0/ref/FoodBankInventory.dll
